@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/static/css/main.9b540986.chunk.css",
+    "main.js": "/static/js/main.7a42790f.chunk.js",
+    "main.js.map": "/static/js/main.7a42790f.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.b8f9e89a.js",
+    "runtime-main.js.map": "/static/js/runtime-main.b8f9e89a.js.map",
+    "static/css/2.9b0e51a9.chunk.css": "/static/css/2.9b0e51a9.chunk.css",
+    "static/js/2.ba68b879.chunk.js": "/static/js/2.ba68b879.chunk.js",
+    "static/js/2.ba68b879.chunk.js.map": "/static/js/2.ba68b879.chunk.js.map",
+    "static/js/3.3cdc89f6.chunk.js": "/static/js/3.3cdc89f6.chunk.js",
+    "static/js/3.3cdc89f6.chunk.js.map": "/static/js/3.3cdc89f6.chunk.js.map",
+    "index.html": "/index.html",
+    "static/css/2.9b0e51a9.chunk.css.map": "/static/css/2.9b0e51a9.chunk.css.map",
+    "static/css/main.9b540986.chunk.css.map": "/static/css/main.9b540986.chunk.css.map",
+    "static/js/2.ba68b879.chunk.js.LICENSE.txt": "/static/js/2.ba68b879.chunk.js.LICENSE.txt",
+    "static/media/style.css": "/static/media/watch-series-6-medium.b4e1e1a2.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.b8f9e89a.js",
+    "static/css/2.9b0e51a9.chunk.css",
+    "static/js/2.ba68b879.chunk.js",
+    "static/css/main.9b540986.chunk.css",
+    "static/js/main.7a42790f.chunk.js"
+  ]
+}
